@@ -115,7 +115,7 @@ body {
   body {
     background-attachment: initial;
     background-size: contain;
-    background-color: #9933ff;
+    background-color: #4b204b;
   }
   .box {
     padding: 2rem;
@@ -143,3 +143,4 @@ body {
     padding: 4rem 0;
   }
 }
+
